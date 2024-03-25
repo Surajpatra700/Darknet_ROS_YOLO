@@ -6,11 +6,11 @@ This is a ROS package developed for **object detection in camera images**. You o
 
 The YOLO packages have been tested under **ROS Noetic** and **Ubuntu 20.04**. Note: We also provide branches that work under **ROS Melodic**, **ROS Foxy** and **ROS2**.
 
-This is research code, expect that it changes often and any fitness for a particular purpose is disclaimed.
+<!-- This is research code, expect that it changes often and any fitness for a particular purpose is disclaimed.
 
 **Author: [Marko Bjelonic](https://www.markobjelonic.com), marko.bjelonic@mavt.ethz.ch**
 
-**Affiliation: [Robotic Systems Lab](http://www.rsl.ethz.ch/), ETH Zurich**
+**Affiliation: [Robotic Systems Lab](http://www.rsl.ethz.ch/), ETH Zurich** -->
 
 ![Darknet Ros example: Detection image](darknet_ros/doc/test_detection.png)
 ![Darknet Ros example: Detection image](darknet_ros/doc/test_detection_anymal.png)
